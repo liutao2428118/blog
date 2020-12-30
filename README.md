@@ -13,6 +13,7 @@
 2. [JavaScirpt 基础之原型链](https://juejin.cn/post/6902334025248178189)
 3. [JavaScirpt 基础之this](https://juejin.cn/post/6909340268646891533)
 4. [JavaScirpt 基础之事件循环（EventLoop）](https://juejin.cn/post/6898975636035993607)
+5. [JavaScirpt 基础之作用域（链）与执行上下文栈](https://juejin.cn/post/6911886461348347917)
 
 ## Nodejs
 1. [koa1.x 中间件（middleware）执行流程](https://juejin.cn/post/6898331270300991496)
