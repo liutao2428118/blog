@@ -27,7 +27,11 @@
 * **JavaScript 高级程序设计（第3版）**
 * **JavaScript 语言精粹**
 * **你不知道的 JavaScript（上卷）**
+* **你不知道的 JavaScript（中卷）**
 
 ### Nodejs
 * **Node.js 权威指南**
 * **了不起的 Nodejs 将 JavaScript 进行到底**
+
+### 计算机
+* **计算机系统要素: 从零开始构建现代计算机**
