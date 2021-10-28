@@ -23,7 +23,7 @@
 2. [Vue 源码阅读-从入口开始的运行流程](https://juejin.cn/post/6909766010204700679)
 
 ## Webpack
-1.[Webpack 原理-模块加载](https://juejin.cn/post/7021802706901663757)
+1. [Webpack 原理-模块加载](https://juejin.cn/post/7021802706901663757)
 
 ## 已读书单推荐
 ### JavaScript
