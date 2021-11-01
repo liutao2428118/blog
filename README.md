@@ -25,6 +25,7 @@
 ## Webpack
 1. [Webpack 原理-模块加载](https://juejin.cn/post/7021802706901663757)
 2. [Webpack 原理-编译流程](https://juejin.cn/post/7025110786489974797)
+3. [Webpack 原理- loader 的执行](https://juejin.cn/post/7025529201973280799)
 
 ## 其他
 * [结合EventLoop分析一道Promise变态面试题](https://juejin.cn/post/6902240997124603917)
