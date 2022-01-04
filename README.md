@@ -5,6 +5,9 @@
 
 [掘金主页](https://juejin.cn/user/1943592290229719/posts)
 
+## 总结
+[我的第一份年终总结|2021年总结](https://juejin.cn/post/7047767702676439054)
+
 ## 练手项目
 1. [vuessr+koa+mongodb 打造博客项目](https://github.com/liutao2428118/blogs)
 
