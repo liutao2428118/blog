@@ -5,29 +5,31 @@
 
 [掘金主页](https://juejin.cn/user/1943592290229719/posts)
 
-## 总结
+## 文章
+
+### 总结
 [我的第一份年终总结|2021年总结](https://juejin.cn/post/7047767702676439054)
 
-## javaScript
+### javaScript
 1. [JavaScirpt 基础之创建对象](https://juejin.cn/post/6903403553046396935)
 2. [JavaScirpt 基础之原型链](https://juejin.cn/post/6902334025248178189)
 3. [JavaScirpt 基础之this](https://juejin.cn/post/6909340268646891533)
 4. [JavaScirpt 基础之事件循环（EventLoop）](https://juejin.cn/post/6898975636035993607)
 5. [JavaScirpt 基础之作用域（链）与执行上下文栈](https://juejin.cn/post/6911886461348347917)
 
-## nodejs
-1. [koa1 中间件执行流程](https://juejin.cn/post/6898331270300991496)
-
-## vue
+### vue
 1. [Vue 源码阅读-源码目录与构建](https://juejin.cn/post/6909382983283982343)
 2. [Vue 源码阅读-从入口开始的运行流程](https://juejin.cn/post/6909766010204700679)
 
-## webpack
+### nodejs
+1. [koa1 中间件执行流程](https://juejin.cn/post/6898331270300991496)
+
+### webpack
 1. [Webpack 原理-模块加载](https://juejin.cn/post/7021802706901663757)
 2. [Webpack 原理-编译流程](https://juejin.cn/post/7025110786489974797)
 3. [Webpack 原理- loader 的执行](https://juejin.cn/post/7025529201973280799)
 
-## 其他
+### 其他
 * [结合EventLoop分析一道Promise变态面试题](https://juejin.cn/post/6902240997124603917)
 * [let与const](https://juejin.cn/post/6899697889611055111)
 
