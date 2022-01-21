@@ -8,9 +8,6 @@
 ## 总结
 [我的第一份年终总结|2021年总结](https://juejin.cn/post/7047767702676439054)
 
-## 练手项目
-1. [vuessr+koa+mongodb 打造博客项目](https://github.com/liutao2428118/blogs)
-
 ## javaScript
 1. [JavaScirpt 基础之创建对象](https://juejin.cn/post/6903403553046396935)
 2. [JavaScirpt 基础之原型链](https://juejin.cn/post/6902334025248178189)
@@ -38,6 +35,9 @@
 
 ### 计算机网络
 * [计算机网络-自顶向下方法（笔记与实验）](https://github.com/liutao2428118/computer-networking-lab-note)
+
+### nodejs
+* [vue-ssr+koa+mongodb 博客项目（实践）](https://github.com/liutao2428118/blogs)
 
 ## 已读书单推荐
 ### javaScript
