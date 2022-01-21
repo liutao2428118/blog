@@ -11,21 +11,21 @@
 ## 练手项目
 1. [vuessr+koa+mongodb 打造博客项目](https://github.com/liutao2428118/blogs)
 
-## JavaScript
+## javaScript
 1. [JavaScirpt 基础之创建对象](https://juejin.cn/post/6903403553046396935)
 2. [JavaScirpt 基础之原型链](https://juejin.cn/post/6902334025248178189)
 3. [JavaScirpt 基础之this](https://juejin.cn/post/6909340268646891533)
 4. [JavaScirpt 基础之事件循环（EventLoop）](https://juejin.cn/post/6898975636035993607)
 5. [JavaScirpt 基础之作用域（链）与执行上下文栈](https://juejin.cn/post/6911886461348347917)
 
-## Nodejs
-1. [koa1.x 中间件（middleware）执行流程](https://juejin.cn/post/6898331270300991496)
+## nodejs
+1. [koa1 中间件执行流程](https://juejin.cn/post/6898331270300991496)
 
-## Vue源码阅读
+## vue源码
 1. [Vue 源码阅读-源码目录与构建](https://juejin.cn/post/6909382983283982343)
 2. [Vue 源码阅读-从入口开始的运行流程](https://juejin.cn/post/6909766010204700679)
 
-## Webpack
+## webpack
 1. [Webpack 原理-模块加载](https://juejin.cn/post/7021802706901663757)
 2. [Webpack 原理-编译流程](https://juejin.cn/post/7025110786489974797)
 3. [Webpack 原理- loader 的执行](https://juejin.cn/post/7025529201973280799)
@@ -34,14 +34,19 @@
 * [结合EventLoop分析一道Promise变态面试题](https://juejin.cn/post/6902240997124603917)
 * [let与const](https://juejin.cn/post/6899697889611055111)
 
+## 笔记与实践
+
+### 计算机网络
+* [计算机网络-自顶向下方法（笔记与实验）](https://github.com/liutao2428118/computer-networking-lab-note)
+
 ## 已读书单推荐
-### JavaScript
+### javaScript
 * **JavaScript 高级程序设计（第3版）**
 * **JavaScript 语言精粹**
 * **你不知道的 JavaScript（上卷）**
 * **你不知道的 JavaScript（中卷）**
 
-### Nodejs
+### nodejs
 * **Node.js 权威指南**
 * **了不起的 Nodejs 将 JavaScript 进行到底**
 
