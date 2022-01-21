@@ -21,7 +21,7 @@
 ## nodejs
 1. [koa1 中间件执行流程](https://juejin.cn/post/6898331270300991496)
 
-## vue源码
+## vue
 1. [Vue 源码阅读-源码目录与构建](https://juejin.cn/post/6909382983283982343)
 2. [Vue 源码阅读-从入口开始的运行流程](https://juejin.cn/post/6909766010204700679)
 
