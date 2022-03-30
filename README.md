@@ -37,6 +37,7 @@
 
 ### 计算机网络
 * [计算机网络-自顶向下方法（笔记与实验）](https://github.com/liutao2428118/computer-networking-lab-note)
+* [HTTP 权威指南（笔记）](https://github.com/liutao2428118/http-note)
 
 ### nodejs
 * [vue-ssr+koa+mongodb 博客项目（实践）](https://github.com/liutao2428118/blogs)
@@ -54,6 +55,9 @@
 
 ### 计算机
 * **计算机系统要素: 从零开始构建现代计算机** 
+* **计算机网络：自顶向下方法**
+* **HTTP 权威指南**
+* **HTTP/2 基础教程**
 
 ## License
 所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
