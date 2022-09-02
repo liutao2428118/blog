@@ -31,7 +31,7 @@
 #### Nodejs
 * [vue-ssr+koa+mongodb 博客项目（实践）](https://github.com/liutao2428118/blogs)
 ## 已读书单
-#### javaScript
+#### JavaScript
 * **JavaScript 高级程序设计（第3版）**
 * **JavaScript 语言精粹**
 * **你不知道的 JavaScript（上卷）**
