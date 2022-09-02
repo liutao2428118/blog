@@ -29,7 +29,7 @@
 * [计算机网络-自顶向下方法（笔记与实验）](https://github.com/liutao2428118/computer-networking-lab-note)
 * [HTTP 权威指南（笔记）](https://github.com/liutao2428118/http-note)
 #### Nodejs
-* [vue-ssr+koa+mongodb 博客项目（实践）](https://github.com/liutao2428118/blogs)
+* [vue-ssr+koa+mongodb 博客网站项目（实践）](https://github.com/liutao2428118/blogs)
 ## 已读书单
 #### JavaScript
 * **JavaScript 高级程序设计（第3版）**
