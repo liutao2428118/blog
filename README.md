@@ -30,16 +30,16 @@
 * [HTTP 权威指南（笔记）](https://github.com/liutao2428118/http-note)
 #### Nodejs
 * [vue-ssr+koa+mongodb 博客项目（实践）](https://github.com/liutao2428118/blogs)
-## 已读书单推荐
-### javaScript
+## 已读书单
+#### javaScript
 * **JavaScript 高级程序设计（第3版）**
 * **JavaScript 语言精粹**
 * **你不知道的 JavaScript（上卷）**
 * **你不知道的 JavaScript（中卷）**
-### nodejs
+#### Nodejs
 * **Node.js 权威指南**
 * **了不起的 Nodejs 将 JavaScript 进行到底**
-### 计算机
+#### 计算机
 * **计算机系统要素: 从零开始构建现代计算机** 
 * **计算机网络：自顶向下方法**
 * **HTTP 权威指南**
