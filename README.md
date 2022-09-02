@@ -3,8 +3,8 @@
 
 ## 前端文章
 
-* [2021年总结](https://github.com/liutao2428118/blog/blob/main/article/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.md)
-* [结合EventLoop 分析一道 Promise 变态面试题](https://github.com/liutao2428118/blog/blob/main/article/%E7%BB%93%E5%90%88EventLoop%E5%88%86%E6%9E%90%E4%B8%80%E9%81%93Promise%E5%8F%98%E6%80%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [2021 年总结](https://github.com/liutao2428118/blog/blob/main/article/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.md)
+* [结合 EventLoop 分析一道 Promise 变态面试题](https://github.com/liutao2428118/blog/blob/main/article/%E7%BB%93%E5%90%88EventLoop%E5%88%86%E6%9E%90%E4%B8%80%E9%81%93Promise%E5%8F%98%E6%80%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 * [let 与 const](https://github.com/liutao2428118/blog/blob/main/article/let%E4%B8%8Econst.md)
 
 #### JavaScript
