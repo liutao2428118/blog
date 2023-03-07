@@ -25,11 +25,11 @@
 * [koa1 中间件执行流程](https://github.com/liutao2428118/blog/blob/main/article/koa1.x%E4%B8%AD%E9%97%B4%E4%BB%B6%EF%BC%88middleware%EF%BC%89%E6%89%A7%E8%A1%8C%E6%B5%81%E7%A8%8B.md)
 
 ## 笔记与实践
-#### 计算机网络
 * [计算机网络-自顶向下方法（笔记与实验）](https://github.com/liutao2428118/computer-networking-lab-note)
 * [HTTP 权威指南（笔记）](https://github.com/liutao2428118/http-note)
-#### Nodejs
+* [算法 第4版（笔记）](https://github.com/liutao2428118/arithmetic)
 * [vue-ssr+koa+mongodb 博客网站项目（实践）](https://github.com/liutao2428118/blogs)
+
 ## 已读书单
 #### JavaScript
 * **JavaScript 高级程序设计（第3版）**
@@ -46,6 +46,7 @@
 * **HTTP/2 基础教程**
 * **图解算法**
 * **算法-第4版**
+* **操作系统导论**
 
 ## License
 所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
